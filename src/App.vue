@@ -7,6 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
 
 export default {
   name: 'app',
